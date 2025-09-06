@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 README
 
 This is just a repository for my personal R projects.
 
 <a href="https://creativecommons.org">Readme</a> © 2025 by <a href="https://creativecommons.org">Mutong Li</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+=======
+---
+title: "README"
+author: "Mutong Li"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+This is just a repository for my personal R projects.
+
+<a href="https://creativecommons.org">Untitled</a> © 1999 by <a href="https://creativecommons.org">Jane Doe</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+>>>>>>> 0da15ac63ce9625eaa2764f964ae5b7b0651844b
